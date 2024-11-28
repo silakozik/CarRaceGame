@@ -1,0 +1,15 @@
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\bin\Debug\carRaceGame.exe.config
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\bin\Debug\carRaceGame.exe
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\bin\Debug\carRaceGame.pdb
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.Form1.resources
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.Properties.Resources.resources
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.csproj.GenerateResource.cache
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.exe
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.pdb
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SILA\source\repos\carRaceGame\carRaceGame\obj\Debug\carRaceGame.csproj.ResolveComReference.cache
